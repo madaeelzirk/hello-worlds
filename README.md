@@ -3,4 +3,4 @@ Yet another repository
 
 Hello,
 
-This is only a test. 
+This is only a test!
